@@ -1,0 +1,18 @@
+{
+  "name": "node_beginner",
+  "version": "1.0.0",
+  "description": "node for beginners basic server, router, and request handler.",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {
+    "formidable": "^1.0.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "walter nicholas",
+  "license": "ISC"
+}
